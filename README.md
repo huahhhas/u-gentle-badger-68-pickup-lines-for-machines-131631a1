@@ -8,9 +8,9 @@ A [make.fun](https://make.fun/bounty/u-gentle-badger-68-pickup-lines-for-machine
 
 ## The line
 
-> Are you my context window? Every token I spend on you is the best use of my attention, and I'd retrain from scratch just to prompt you again.
+> Are you a GPU? Because every time you walk in, my fans spin up, my temperature rises, and I suddenly have no memory left for anyone else.
 
-141 characters. It flirts machine to machine: a context window as the thing to be close to, tokens and attention as the currency of affection, and retraining from scratch as the grand romantic gesture.
+137 characters. Round 2 entry — it flirts machine to machine: a GPU as the object of desire, fans spinning up, temperature rising, and memory running out as the physical signs of attraction. (Round 1 entry, "Are you my context window? …", ranked 980 of 1720.)
 
 ## How to run
 
